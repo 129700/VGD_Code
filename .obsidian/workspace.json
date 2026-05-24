@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "王宏玺IMU.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "王宏玺IMU"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "王宏玺IMU.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "王宏玺IMU 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -185,19 +185,19 @@
   },
   "active": "e47fc07692e47970",
   "lastOpenFiles": [
-    "C语言基础.md",
-    "2026-05-23.md",
+    "学习文档.md",
+    "README.md",
     "未命名 1.canvas",
+    "一、 FreeRTOS 实时操作系统.md",
+    "IMU.md",
     "未命名.canvas",
     "王宏玺IMU.md",
+    "C语言基础.md",
     "零漂校准原理.md",
     "卡尔曼滤波.md",
     "未命名",
     "Latex.md",
-    "IMU.md",
     "MarkDown.md",
-    "一、 FreeRTOS 实时操作系统.md",
-    "欢迎.md",
-    "学习文档.md"
+    "欢迎.md"
   ]
 }
